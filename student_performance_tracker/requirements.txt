@@ -1,0 +1,2 @@
+# Tidak ada dependensi eksternal untuk versi dasar.
+# (Tambahkan 'rich' atau 'pdoc' jika menggunakan bonus)
