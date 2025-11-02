@@ -1,2 +1,0 @@
-# 230103013_Bagas-Satrio_TugasProyek2_Python
-Python Program
